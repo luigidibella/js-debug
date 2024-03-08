@@ -15,6 +15,10 @@ for (let i = 0; i > 5; i++) {
     console.log(i);
 }
 
+// 1- Vorrebbe stampare in console dei numeri;
+// 2- Non presenta errori di sintassi;
+// 3- Si, perchè 'i' non può essere contemporaneamente '= 0' e '> 5';
+
 
 // ESERCIZIO 2
 function addIfEven(num) {
