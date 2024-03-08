@@ -57,3 +57,10 @@ function displayEvenNumbers() {
     }
 }
 displayEvenNumbers(); // dovrebbe restituire [2,4,6,8]
+
+// 1- Dato un array di numeri vole restiruire solo quelli pari;
+// 2- Si, r52 'i++' non 'i++;' | r53 '===' non '=';
+// 3- Si, r52 'numbers.length - 1' non include ultimo elemento;
+//        r53 'if (numbers[i] % 2 === 0)';
+//        r54 'push(numbers[i])' non 'push(i)';
+//        r56 'return evenNumbers' posizionata fuori dal ciclo for;
