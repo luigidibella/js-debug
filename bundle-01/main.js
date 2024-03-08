@@ -30,7 +30,7 @@ function addIfEven(num) {
 
 // 1- Dato un numero, se questo è paro restituisce il numero + 5, altrimenti restituisce il numero presumibilmente disparo;
 // 2- Si, '=' non va bene, usare '==' o '===';
-// 3- Non presenta errorir logici;
+// 3- Non presenta errori logici;
 
 
 // ESERCIZIO 3
