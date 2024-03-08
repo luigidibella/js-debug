@@ -40,6 +40,10 @@ function loopToFive() {
     }
 }
 
+// 1- Vorrebbe stampare in console dei numeri fino a 5;
+// 2- Si, ',' non va bene, usare ';';
+// 3- Si, perchè per essere un 'loopToFive' 'i' dovrebbe essere '<= 5';
+
 
 // ESERCIZIO 4 (suggerimento: ci sono 7 errori)
 function displayEvenNumbers() {
