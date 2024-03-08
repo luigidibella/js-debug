@@ -28,6 +28,10 @@ function addIfEven(num) {
     return num;
 }
 
+// 1- Dato un numero, se questo è paro restituisce il numero + 5, altrimenti restituisce il numero presumibilmente disparo;
+// 2- Si, '=' non va bene, usare '==' o '===';
+// 3- Non presenta errorir logici;
+
 
 // ESERCIZIO 3
 function loopToFive() {
