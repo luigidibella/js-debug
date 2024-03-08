@@ -23,6 +23,10 @@ function checkAge() {
 }
 checkAge();
 
+// 1- Questa funzione controlla se hai piu o meno di 18 anni;
+// 2- Si, cambiare in 'let message';
+// 3- Si, non viene stampato;
+
 // ESERCIZIO 2
 function printColorsNumber() {
     const colors = ['blue', 'red', 'yellow', 'green', 'black'];
@@ -30,6 +34,9 @@ function printColorsNumber() {
 }
 printColorsNumber();
 
+// 1- Questa funzione restituiva il numero di colore di una palette;
+// 2- Si, 'length' non 'lenght';
+// 3- No;
 
 // ESERCIZIO 3
 function addNumbers() {
@@ -40,6 +47,7 @@ function addNumbers() {
 }
 addNumbers();
 
+// mettere parselnt per verificare che venga assegnato un numero e non una stringa;
 
 // ESERCIZIO 4
 function checkAccess() {
@@ -60,6 +68,9 @@ function checkAccess() {
 }
 checkAccess();
 
+// 1- Controlla se l'indirizzo email è incluso nell'array;
+// 2- Valore booleano scritto errato;
+// 3- No;
 
 // ESERCIZIO 5 (suggerimento: c'è un solo errore)
 function checkAccessImproved() {
@@ -89,6 +100,9 @@ function checkAccessImproved() {
     }
     checkAccessImproved();
 
+// 1- Controlla se l'indirizzo email è incluso nell'array + controllo sulla lunghezza minima;
+// 2- Chiusura '}' e valore booleano scritto male;
+// 3- No;
 
 
 
